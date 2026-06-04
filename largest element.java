@@ -5,3 +5,4 @@ int arr[]= {10,23,45,6};
 				largest=arr[i];
 			}
 		}
+		System.out.println(largest);
